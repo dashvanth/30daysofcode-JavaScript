@@ -6,17 +6,20 @@ Welcome to my JavaScript journey! I have taken up the **#30DaysOfCode** challeng
 
 Throughout this challenge, I will be diving into a **wide range of topics** in JavaScript. From **fundamental concepts** to **advanced techniques**, here are some of the **amazing topics** you can expect to find in my daily updates:
 
-- JavaScript basics and syntax 📝
-- Variables, data types, and operators
+- JavaScript Fundamentals inlcuding variables, datatypes, control statements, operators, loops etc..
 
 ## 🗓️ Daily Updates
 
 For each day of this challenge, I will create a dedicated folder that contains my learnings and code examples for that particular day. Here is an overview of the folder structure:
 
-- **[Day 01](/Day%2001)**: [Topic]
-  - [Topic]-examples.js: JavaScript code examples 🚀
-  - [Topic]-notes.md: Detailed notes and explanations 📝
-  - [Topic]-resources.md: Additional resources for further exploration 📚
+- **[Day - 01](/Day%2001)**: [JS Fundamentals]
+  1. **Introduction to JavaScript:** Basics and role in web development.
+  2. **Including JavaScript:** Methods to include JavaScript code in HTML.
+  3. **Variables:** Declaration, types, and naming rules.
+  4. **Data Types:** Numbers, strings, booleans, arrays, and objects.
+  5. **Operators:** Arithmetic, assignment, logical, and comparison.
+  6. **Control Statements:** `if...else` and `switch case`.
+  7. **Loops:** `for`, `while`, and `do-while`.
 
 - **[Day 02](/Day%2002)**: [Topic]
   - [Topic]-examples.js
