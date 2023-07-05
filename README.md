@@ -21,7 +21,7 @@ For each day of this challenge, I will create a dedicated folder that contains m
   6. **Control Statements:** `if...else` and `switch case`.
   7. **Loops:** `for`, `while`, and `do-while`.
 
-- **[Day 02](/Day%2002)**: [Topic]
+- **[Day 02](/Day%2002)**: [Objects]
 1. **Objects in JavaScript:** Understand the concept of objects and their importance in JavaScript.
 2. **Creation of Objects:** Explore different ways to create objects, such as object literals and the `new` keyword.
 3. **Functions in Objects (Methods):** Learn how to define functions within objects, commonly known as methods.
