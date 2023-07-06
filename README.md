@@ -22,15 +22,24 @@ For each day of this challenge, I will create a dedicated folder that contains m
   7. **Loops:** `for`, `while`, and `do-while`.
 
 - **[Day 02](/Day%2002)**: [Objects]
-1. **Objects in JavaScript:** Understand the concept of objects and their importance in JavaScript.
-2. **Creation of Objects:** Explore different ways to create objects, such as object literals and the `new` keyword.
-3. **Functions in Objects (Methods):** Learn how to define functions within objects, commonly known as methods.
-4. **Factory Function:** Discover the concept of factory functions, which allow us to create multiple objects with similar properties and behaviors.
-5. **Constructor Function:** Explore constructor functions as a way to create objects with shared properties and methods using the `new` keyword.
-6. **Dynamic Nature of Objects:** Understand how JavaScript objects can be modified dynamically by adding or removing properties and methods.
-7. **`this` and `delete` Keywords:** Gain insights into the usage of the `this` keyword to refer to the current object, and the `delete` keyword to remove properties from objects.
+  1. **Objects in JavaScript:** Understand the concept of objects and their importance in JavaScript.
+  2. **Creation of Objects:** Explore different ways to create objects, such as object literals and the `new` keyword.
+  3. **Functions in Objects (Methods):** Learn how to define functions within objects, commonly known as methods.
+  4. **Factory Function:** Discover the concept of factory functions, which allow us to create multiple objects with similar properties and behaviors.
+  5. **Constructor Function:** Explore constructor functions as a way to create objects with shared properties and methods using the `new` keyword.
+  6. **Dynamic Nature of Objects:** Understand how JavaScript objects can be modified dynamically by adding or removing properties and methods.
+  7. **`this` and `delete` Keywords:** Gain insights into the usage of the `this` keyword to refer to the current object, and the `delete` keyword to remove properties from objects.
 
-... continuing the structure for each day ...
+- **[Day 03](/Day%2002)**: [Revise & Practice]
+  # Day 03: Primitive vs Reference Types, Loops, and Object Cloning
+  1. **Primitive vs Reference Types:** Differences between primitive types and reference types in JavaScript.
+  2. **Pass by Value and Pass by Reference:** Concepts of passing variables by value or reference.
+  3. **Loops:**
+     - **`for...in` loop:** Iterating over object properties.
+     - **`for...of` loop:** Iterating over iterable objects.
+  4. **Object Cloning Techniques:** Cloning objects using iteration, `Object.assign()`, and the spread operator.
+  I also revised concepts and used W3Schools and W3Resource to solve problems and improve understanding.
+
 
 Feel free to explore the folders and code files to follow my progress throughout this challenge. I hope you find this repository insightful and inspiring for your own JavaScript journey. [Connect with me on LinkedIn](https://www.linkedin.com/in/dashvanth-raj-hc)  to stay updated on my daily learnings and join the discussion. Let's embark on this JavaScript adventure together! 
 
