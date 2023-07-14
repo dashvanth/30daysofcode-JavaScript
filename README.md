@@ -40,6 +40,8 @@ For each day of this challenge, I will create a dedicated folder that contains m
   4. **Object Cloning Techniques:** Cloning objects using iteration, `Object.assign()`, and the spread operator.
   I also revised concepts and used W3Schools and W3Resource to solve problems and improve understanding.
 
+- **[Day 04](/Day%2002)**: [Inbuilt Objects]
+
 
 Feel free to explore the folders and code files to follow my progress throughout this challenge. I hope you find this repository insightful and inspiring for your own JavaScript journey. [Connect with me on LinkedIn](https://www.linkedin.com/in/dashvanth-raj-hc)  to stay updated on my daily learnings and join the discussion. Let's embark on this JavaScript adventure together! 
 
